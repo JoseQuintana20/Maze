@@ -22,6 +22,7 @@ if __name__ == '__main__':
     grafo.add_edge(2, 5, 0)
     grafo.add_edge(3, 4, 1)
     grafo.add_edge(4, 5, 1)
+    #grafo.turtle = {2: 2}
 
     # show graph on terminal
     print(grafo)
